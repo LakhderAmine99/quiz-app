@@ -1,7 +1,7 @@
 const Button = (props) => {
 
     return(
-        <button className="btn">
+        <button onClick={props.handler} className="btn">
             {
                 props.value
             }

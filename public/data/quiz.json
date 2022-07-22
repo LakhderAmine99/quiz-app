@@ -1,5 +1,277 @@
 [
     {
-
+        "id": 1,
+        "question": "What is Baby Yoda's real name",
+        "answer": "Grogu"
+    },
+    {
+        "id": 2,
+        "question": "Where did Obi-Wan take Luke after his birth",
+        "answer": "Tatooine"
+    },
+    {
+        "id": 3,
+        "question": "Who is Palpatine's granddaughter",
+        "answer": "Rey"
+    },
+    {
+        "id": 4,
+        "question": "Who was Anakin Skywalker's Padawan",
+        "answer": "Ahsoka Tano"
+    },
+    {
+        "id": 5,
+        "question": "What is Mando's real name from The Mandalorian",
+        "answer": "Din Djarin"
+    },
+    {
+        "id": 6,
+        "question": "Who had the highest midi-chlorian count in Star Wars",
+        "answer": "Anakin Skywalker"
+    },
+    {
+        "id": 7,
+        "question": "What year did the first Star Wars movie come out",
+        "answer": "1977"
+    },
+    {
+        "id": 8,
+        "question": "Where is Jabba the Hutt's Palace located",
+        "answer": "Tatooine"
+    },
+    {
+        "id": 9,
+        "question": "What's the name of Boba Fett's ship",
+        "answer": "Slave I"
+    },
+    {
+        "id": 10,
+        "question": "Who are Kylo Ren's parents",
+        "answer": "Han Solo and Princess Leia"
+    },
+    {
+        "id": 11,
+        "question": "Who killed Qui-Gon Jinn",
+        "answer": "Darth Maul"
+    },
+    {
+        "id": 12,
+        "question": "According to Yoda, there are always how many Sith Lords,,,no more, no less",
+        "answer": "Two (Rule of Two)"
+    },
+    {
+        "id": 13,
+        "question": "What is the episode number of the very first Star Wars film",
+        "answer": "IV"
+    },
+    {
+        "id": 14,
+        "question": "Who built C-3PO",
+        "answer": "Anakin Skywalker"
+    },
+    {
+        "id": 15,
+        "question": "What is the name of Han Solo's ship",
+        "answer": "The Millennium Falcon"
+    },
+    {
+        "id": 16,
+        "question": "Who acted as Queen Amidala's decoy",
+        "answer": "Her handmaiden Sabé"
+    },
+    {
+        "id": 17,
+        "question": "What was Finn's stormtrooper number",
+        "answer": "FN-2187"
+    },
+    {
+        "id": 18,
+        "question": "Where was Yoda's home in his final years",
+        "answer": "Dagobah"
+    },
+    {
+        "id": 19,
+        "question": "Chancellor Palpatine was which Sith Lord",
+        "answer": "Darth Sidious"
+    },
+    {
+        "id": 20,
+        "question": "Han Solo was frozen in what",
+        "answer": "Carbonite"
+    },
+    {
+        "id": 21,
+        "question": "Who had Rey's parents taken and killed",
+        "answer": "Palpatine"
+    },
+    {
+        "id": 22,
+        "question": "Luke lost which of his hands in a fight with Darth Vader",
+        "answer": "His right hand"
+    },
+    {
+        "id": 23,
+        "question": "Finish this quote from The Mandalorian: This is the ___",
+        "answer": "Way"
+    },
+    {
+        "id": 24,
+        "question": "Who killed Jabba",
+        "answer": "Princess Leia"
+    },
+    {
+        "id": 25,
+        "question": "Who adopted Anakin and Padmé's daughter",
+        "answer": "Bail Organa"
+    },
+    {
+        "id": 26,
+        "question": "On Tatooine, what name did Obi-Wan go by",
+        "answer": "Ben"
+    },
+    {
+        "id": 27,
+        "question": "Anakin Skywalker grew up to be who",
+        "answer": "Darth Vader"
+    },
+    {
+        "id": 28,
+        "question": "The Lion King's Mufasa and which Star Wars character were voiced by the same actor (James Earl Jones)",
+        "answer": "Darth Vader"
+    },
+    {
+        "id": 29,
+        "question": "Per Yoda, what is the path to the dark side",
+        "answer": "Fear"
+    },
+    {
+        "id": 30,
+        "question": "What species is Chewbacca",
+        "answer": "Wookiee"
+    },
+    {
+        "id": 31,
+        "question": "Padmé was Queen of what",
+        "answer": "Naboo"
+    },
+    {
+        "id": 32,
+        "question": "What is Kylo Ren's birth name",
+        "answer": "Ben Solo"
+    },
+    {
+        "id": 33,
+        "question": "Who created Star Wars",
+        "answer": "George Lucas"
+    },
+    {
+        "id": 34,
+        "question": "Who is Luke and Leia's father",
+        "answer": "Darth Vader"
+    },
+    {
+        "id": 35,
+        "question": "Who told Anakin there is another Skywalker",
+        "answer": "Yoda"
+    },
+    {
+        "id": 36,
+        "question": "Leia made who acting general",
+        "answer": "Poe Dameron"
+    },
+    {
+        "id": 37,
+        "question": "Which character said, Help me, Obi-Wan Kenobi, You are my only hope",
+        "answer": "Princess Leia"
+    },
+    {
+        "id": 38,
+        "question": "Bo-Katan wanted what from Moff Gideon in The Mandalorian",
+        "answer": "The Darksaber"
+    },
+    {
+        "id": 39,
+        "question": "Which film was the final installment of the Skywalker Saga",
+        "answer": "The Rise of Skywalker"
+    },
+    {
+        "id": 40,
+        "question": "Where was Baby Yoda when Order 66 was initiated",
+        "answer": "Coruscant"
+    },
+    {
+        "id": 41,
+        "question": "What color was Mace Windu's lightsaber",
+        "answer": "Purple"
+    },
+    {
+        "id": 42,
+        "question": "What color was Yoda's lightsaber",
+        "answer": "Green"
+    },
+    {
+        "id": 43,
+        "question": "C-3PO is fluent in over how many forms of communication",
+        "answer": "Over six million"
+    },
+    {
+        "id": 44,
+        "question": "What species is Jar Jar Binks",
+        "answer": "Gungan"
+    },
+    {
+        "id": 45,
+        "question": "What is the name of Anakin's stepbrother",
+        "answer": "Owen Lars"
+    },
+    {
+        "id": 46,
+        "question": "Who was Boba Fett's father",
+        "answer": "Jango Fett"
+    },
+    {
+        "id": 47,
+        "question": "Who composed the soundtrack album to the 1977 film Star Wars",
+        "answer": "John Williams"
+    },
+    {
+        "id": 48,
+        "question": "Who killed Mace Windu",
+        "answer": "Darth Sidious"
+    },
+    {
+        "id": 49,
+        "question": "What is the name of the female member of the Jedi High Council who is of the same species as Yoda",
+        "answer": "Yaddle"
+    },
+    {
+        "id": 50,
+        "question": "What was Galen Erso's nickname for his daughter",
+        "answer": "Stardust"
+    },
+    {
+        "id": 51,
+        "question": "True or False, Boba Fett survived the Sarlacc pit",
+        "answer": "True"
+    },
+    {
+        "id": 52,
+        "question": "How many episodes are in the Skywalker Saga",
+        "answer": "Nine"
+    },
+    {
+        "id": 53,
+        "question": "Who is known for saying the line: I have spoken",
+        "answer": "Kuiil"
+    },
+    {
+        "id": 54,
+        "question": "Who does Baby Yoda leave with in The Mandalorian Season 2 finale",
+        "answer": "Luke Skywalker and R2-D2"
+    },
+    {
+        "id": 55,
+        "question": "Who played Princess Leia",
+        "answer": "Carrie Fisher"
     }
 ]
